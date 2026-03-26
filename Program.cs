@@ -25,11 +25,29 @@ class Pizza
         Rodzaj = rodzaj;
         Cena = cena;
     }
+    // informacja zwrotna o pizzy (juz przy okreslonym obiekcie mozemy wyswietlic informacje o nim)
     public void PizzaInfo()
-    {
+   {
         Console.WriteLine($"Wybrana pizza to {Nazwa} jej rodzaj to {Rodzaj}, cena to {Cena}");   
     }
     
+}
+class Dostawa
+{
+    public string RodzajDostawy { get; set;}
+    public int Odleglosc {get; set;}
+    public int CenaKm {get; set;}
+
+    public Dostawa(string rodzajDostawy, int odleglosc, int cenaKm)
+    {
+        RodzajDostawy = rodzajDostawy;
+        Odleglosc = odleglosc;
+        CenaKm = cenaKm;
+    }
+    public void DostawaInfo()
+    {
+        Console.WriteLine($"Wyvrany rodzaj dostawy to {RodzajDostawy}, odleglosc to {Odleglosc} km, cena za km to {CenaKm} zł");
+    }
 }
 class Program
 {
