@@ -1,0 +1,14 @@
+/Users/matic/Developer/Studia/Zadanie2/bin/Debug/net10.0/Zadanie2
+/Users/matic/Developer/Studia/Zadanie2/bin/Debug/net10.0/Zadanie2.deps.json
+/Users/matic/Developer/Studia/Zadanie2/bin/Debug/net10.0/Zadanie2.runtimeconfig.json
+/Users/matic/Developer/Studia/Zadanie2/bin/Debug/net10.0/Zadanie2.dll
+/Users/matic/Developer/Studia/Zadanie2/bin/Debug/net10.0/Zadanie2.pdb
+/Users/matic/Developer/Studia/Zadanie2/obj/Debug/net10.0/Zadanie2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matic/Developer/Studia/Zadanie2/obj/Debug/net10.0/Zadanie2.AssemblyInfoInputs.cache
+/Users/matic/Developer/Studia/Zadanie2/obj/Debug/net10.0/Zadanie2.AssemblyInfo.cs
+/Users/matic/Developer/Studia/Zadanie2/obj/Debug/net10.0/Zadanie2.csproj.CoreCompileInputs.cache
+/Users/matic/Developer/Studia/Zadanie2/obj/Debug/net10.0/Zadanie2.dll
+/Users/matic/Developer/Studia/Zadanie2/obj/Debug/net10.0/refint/Zadanie2.dll
+/Users/matic/Developer/Studia/Zadanie2/obj/Debug/net10.0/Zadanie2.pdb
+/Users/matic/Developer/Studia/Zadanie2/obj/Debug/net10.0/Zadanie2.genruntimeconfig.cache
+/Users/matic/Developer/Studia/Zadanie2/obj/Debug/net10.0/ref/Zadanie2.dll
